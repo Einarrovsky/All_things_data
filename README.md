@@ -1,5 +1,5 @@
-"# All_things_data" 
-Below project is an analysis of effectiveness of campaigns applied to increase the number of active players
+
+Project is an analysis of effectiveness of campaigns applied to increase the number of active players
 
 It shows campaigns which achieved the biggest numbers of players, shows their retention overtime and discovers which were the
 most profitable
